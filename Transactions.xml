@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Transaction>
+    <ID>1</ID>
+    <MyDate>2025-10-09T00:00:00+02:00</MyDate>
+    <MyTime>2025-10-09T18:14:52+02:00</MyTime>
+    <Detail>ايداعات 5000ج</Detail>
+    <Withdraw>0</Withdraw>
+    <Deposit>5000</Deposit>
+    <Balance>5000</Balance>
+  </Transaction>
+  <Transaction>
+    <ID>2</ID>
+    <MyDate>2025-10-09T00:00:00+02:00</MyDate>
+    <MyTime>2025-10-09T18:14:52+02:00</MyTime>
+    <Detail>سحب 3500ج</Detail>
+    <Withdraw>3500</Withdraw>
+    <Deposit>0</Deposit>
+    <Balance>1500</Balance>
+  </Transaction>
+  <Transaction>
+    <ID>3</ID>
+    <MyDate>2025-10-09T00:00:00+02:00</MyDate>
+    <MyTime>2025-10-09T18:14:52+02:00</MyTime>
+    <Detail>سحب 500ج</Detail>
+    <Withdraw>500</Withdraw>
+    <Deposit>0</Deposit>
+    <Balance>1000</Balance>
+  </Transaction>
+</DocumentElement>
